@@ -1,0 +1,4 @@
+2023-05-22 21:51:20,515 —> INFO:: Bot: WeatherReporto [@reporto_weather_bot] | FROM <<_welcome>> function in C:\Users\User\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\utils\executor.py
+2023-05-22 21:51:20,646 —> WARNING:: Updates were skipped successfully. | FROM <<_skip_updates>> function in C:\Users\User\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\utils\executor.py
+2023-05-22 21:51:20,646 —> INFO:: Bot is online now... | FROM <<bot_is_launched>> function in C:\Users\User\Desktop\Python\Telegram Bots\WeatherReporto\tools\create_bot.py
+2023-05-22 21:51:20,646 —> INFO:: Start polling. | FROM <<start_polling>> function in C:\Users\User\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py
