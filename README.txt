@@ -1,1 +1,1 @@
-@reporto_weather_bot  --> Username of this bot
+@reporto_weather_bot  --> Username of this Telegram bot
